@@ -1,0 +1,7 @@
+*.pdf
+*.png
+*.csv
+*.jpge
+*.jpg
+*.pptx
+/0Examen
